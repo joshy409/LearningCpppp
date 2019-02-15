@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1D94508A-1168-4ECA-BDB6-5A8E906F09F0}</ProjectGuid>
+    <ProjectGuid>{03935EAA-E67A-4CEC-AC0E-D38736103008}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LearningCppp</RootNamespace>
-    <AssemblyName>LearningCppp</AssemblyName>
+    <RootNamespace>Events</RootNamespace>
+    <AssemblyName>Events</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
