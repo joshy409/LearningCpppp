@@ -23,6 +23,8 @@ namespace lambdafuction
             //Console.WriteLine(multiplier(10));
 
 
+           
+
 
             var books = new BookRepository().GetBooks();
             var cheapBooks = books.FindAll(b => b.Price < 10);
